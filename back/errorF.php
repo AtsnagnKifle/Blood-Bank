@@ -1,0 +1,15 @@
+<?php
+    $_SESSION['firstnameerror']="";
+    $_SESSION['midlenameerror']="";
+    $_SESSION['lastnameerror']="";
+    $_SESSION['cityerror']="";
+    $_SESSION['streeterror']="";
+    $_SESSION['emailerror']="";
+    $_SESSION['passworderror']="";
+    $_SESSION['confirmpassworderror']="";
+    $_SESSION['usernameerror']="";
+    $_SESSION['mobilephoneerror']="";
+    $_SESSION['telephoneerror']="";
+    $_SESSION['insertusernameerror']="";
+    $_SESSION['loginerror']="";
+?>
